@@ -9,5 +9,7 @@ $npm install -g react-native-cli
 <div> Android Emulator up and running </div>
 
 # Download project and do:
+
 $react-native start
+
 $react-native run-android or react-native run-ios
