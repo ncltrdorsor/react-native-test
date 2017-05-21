@@ -5,5 +5,7 @@ First try at react-native
 $npm install -g react-native-cli
 
 #Download project and do:
+
 $react-native start
+
 $react-native run-android or react-native run-ios
